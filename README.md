@@ -120,7 +120,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
 - [Headlinesai.pro](https://www.headlinesai.pro/) - This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple platforms like Youtube, Medium, Indie Hackers and Reddit.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
-
+- [Rankpilot](https://rankpilot.i10x.ai) - Automated SEO tool that handles keyword research, generates optimized articles for SEO and GEO (generative engine optimization), publishes directly to Shopify or WordPress, and monitors performance in AI overviews, LLMs, and search engines.
 
 ### ChatGPT extensions
 
@@ -189,7 +189,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
-
+- [i10X](https://i10x.ai) - All-in-one AI marketplace aggregating 500+ agents (ChatGPT, Claude, Gemini) for content/image/video creation, legal assistance, and a chat arena to compare LLM outputs—boosting productivity.
 
 ### Meeting assistants
 
